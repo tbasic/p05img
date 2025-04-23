@@ -9,6 +9,7 @@
 <body>
 <h3>test.jsp</h3>
 <img src="/static/images/redhat.jpg" alt="" />
+<h3>web hooooook</h3>
 
 </body>
 </html>
