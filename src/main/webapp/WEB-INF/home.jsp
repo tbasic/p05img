@@ -9,8 +9,7 @@
 <body>
 <h3>home.jsp</h3>
 <a href="test">imageredhat</a>
-<h3>webhook1</h3>
-<h3>webhook2</h3>
+
 
 </body>
 </html>
