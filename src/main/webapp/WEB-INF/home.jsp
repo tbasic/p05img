@@ -9,9 +9,7 @@
 <body>
 <h3>home.jsp</h3>
 <a href="test">imageredhat</a>
-<h3>update 1</h3>
-<h3>update 1</h3>
-<h3>update 1</h3>
+
 
 </body>
 </html>
