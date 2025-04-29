@@ -9,12 +9,8 @@
 <body>
 <h3>home.jsp</h3>
 <a href="test">imageredhat</a>
-<h3>update cicd1</h3>
-<h3>update cicd2</h3>
-<h3>update cicd3</h3>
-<h3>update cicd3</h3>
-<h3>update cicd3</h3>
-<h3>update cicd3</h3>
+<h3>hihi auto exec jenkins</h3>
+
 
 
 </body>
