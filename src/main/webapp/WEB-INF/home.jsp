@@ -15,6 +15,8 @@
 <h3>hihi auto exec jenkins3</h3>
 <h3>hihi auto exec jenkins4</h3>
 <h3>hihi auto exec jenkins5</h3>
+<h3>hihi auto exec jenkins6</h3>
+<h3>hihi auto exec jenkins7</h3>
 
 
 
